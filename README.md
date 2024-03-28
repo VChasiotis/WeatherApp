@@ -9,3 +9,4 @@ and finally the "Select Dates" button which enables a calendar specifically for 
 the corresponding data are displayed in the corresponding sections. Finally, it also provides a line graph that showcases the maximum temperatures of each date available.
 
 Installation Guide: 
+Download the .rar file and launch the index.html file to run the code.
